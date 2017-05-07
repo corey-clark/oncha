@@ -9,7 +9,7 @@ A modular exalted javascript monadic library & functional fun. [fantasy-land](ht
 | [Maybe](#maybe)   |    **✔︎**     |      **✔︎**       |    **✔︎**     |                |     **✔︎**    |     **✔︎**    |   **✔︎**    |     **✔︎**     |
 | [List](#list)     |    **✔︎**     |                  |    **✔︎**     |     **✔︎**      |     **✔︎**    |     **✔︎**    |            |     **✔︎**     |
 
-* There is a divergence form fanasy land where `reduce` is named `fold` for some types.
+* There is a divergence form fantasy land where `reduce` is named `fold` for some types.
 
 ## Install
 ``` bash
